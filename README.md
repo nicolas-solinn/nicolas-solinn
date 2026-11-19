@@ -60,7 +60,7 @@ Meu foco é colocar em prática os conhecimentos adquiridos e evoluir continuame
 
 **GitHub:** [@nicolas-solinn](https://github.com/nicolas-solinn)
 
-**Localização:** Paulista, Pernambuco
+**Localização:** Paulista, Pernambuco, Brasil
 
 ---
 
